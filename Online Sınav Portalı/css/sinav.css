@@ -1,0 +1,60 @@
+.header{
+    
+    width: 1000px;
+    height: 80px;
+    
+    margin-left: 25px;
+    font-family: sans-serif monospace;
+    font-size: 5em;
+    text-align: center;
+    color:crimson;
+    
+    
+    
+    
+}
+
+
+body{
+    
+    
+    background: black;
+       
+}
+.content-display{
+    
+     width: 1000px;
+     height: auto;
+    
+     margin-left: 25px;
+     margin-top: 20px;
+    line-height: 40px;
+    font-family: arial,sans-serif;
+    color:#107896;
+    
+    
+    }
+
+h3{
+    text-align:left;
+}
+
+li{
+    
+    background: #222; height:40px; width:920px;
+    
+    
+    
+}
+
+#line-hieght-Q15{
+    
+    line-height: 20px;
+    
+}
+
+#line-hieght-Q17{
+    
+    line-height: 20px;
+    
+}

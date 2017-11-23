@@ -1,0 +1,75 @@
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\ApplicationInsights.config
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\roslyn\csc.exe
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\roslyn\vbc.exe
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\roslyn\VBCSCompiler.exe
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Online Sınav Portalı.dll.config
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Online Sınav Portalı.dll
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Online Sınav Portalı.pdb
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Online Sınav Portalı.xml
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Microsoft.AI.Web.dll
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Microsoft.ApplicationInsights.dll
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Microsoft.AI.Web.xml
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Microsoft.ApplicationInsights.xml
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\obj\Debug\Online Sınav Portalı.vbprojResolveAssemblyReference.cache
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\obj\Debug\Online_Sınav_Portalı.Resources.resources
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\obj\Debug\Online Sınav Portalı.vbproj.GenerateResource.Cache
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\obj\Debug\Online Sınav Portalı.dll
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\obj\Debug\Online Sınav Portalı.xml
+C:\Users\behce\Desktop\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\obj\Debug\Online Sınav Portalı.pdb
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\ApplicationInsights.config
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\roslyn\csc.exe
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\roslyn\vbc.exe
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\roslyn\VBCSCompiler.exe
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Online Sınav Portalı.dll.config
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Online Sınav Portalı.dll
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Online Sınav Portalı.pdb
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Online Sınav Portalı.xml
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Microsoft.AI.Web.dll
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Microsoft.ApplicationInsights.dll
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Microsoft.AI.Web.xml
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Microsoft.ApplicationInsights.xml
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\obj\Debug\Online Sınav Portalı.vbprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\obj\Debug\Online_Sınav_Portalı.Resources.resources
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\obj\Debug\Online Sınav Portalı.vbproj.GenerateResource.Cache
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\obj\Debug\Online Sınav Portalı.vbproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\obj\Debug\Online Sınav Portalı.dll
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\obj\Debug\Online Sınav Portalı.xml
+C:\Users\acer\Desktop\İnternet Programcılığı\Online Sinav Portalı -1\Online Sınav Portalı\Online Sınav Portalı\obj\Debug\Online Sınav Portalı.pdb
